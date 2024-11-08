@@ -13,6 +13,7 @@ nf = float(nf)
 passo = float(passo)
 valor = float(valor)
 loop=ni-passo
+teste de auteração
 operacao = loop
 
 while loop <= nf-passo:
