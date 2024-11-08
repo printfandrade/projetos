@@ -1,0 +1,1 @@
+print(f'{'CARLU'*2}')
